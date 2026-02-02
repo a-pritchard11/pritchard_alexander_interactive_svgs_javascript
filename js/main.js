@@ -1,21 +1,14 @@
 console.log("JS file connected")
 
-const buy = document.querySelector("#lime-main")
+const flavors = document.querySelectorAll("#fruits img")
+console.log(flavors)
 
-const controlbuttons = document.querySelectorAll("#press")
-console.log(controlbuttons)
-
-function buyProduct() {
-    console.log("user clicked buy button")
-    console.log(this.id);
+function logId() {
+    console.log("User Clicked",this.id);
 }
 
-function logMyId() {
-    console.log(this.id);
-}
+flavors.forEach(img => img.addEventListener ("click", logId))
 
-buy.addEventListener("click", buyProduct)
-
-controlButtons.forEach(function(button){
-    button.addEventListener("click", logMyId);
+flavors.forEach(function(button){
+    button.addEventListener("click",this.id);
 })
