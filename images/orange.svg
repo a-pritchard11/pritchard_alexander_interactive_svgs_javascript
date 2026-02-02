@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="orange" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 467.61 392.71">
+  <g id="Polygon_1" data-name="Polygon 1">
+    <polygon points="342.57 16.44 120.61 16.44 9.64 200.45 120.61 384.46 342.57 384.46 453.55 200.45 342.57 16.44" style="fill: #f79228; fill-rule: evenodd;"/>
+    <polygon points="342.57 16.44 120.61 16.44 9.64 200.45 120.61 384.46 342.57 384.46 453.55 200.45 342.57 16.44" style="fill: none; stroke: #fff; stroke-miterlimit: 100; stroke-width: 16.5px;"/>
+  </g>
+  <g id="Polygon_1-2" data-name="Polygon 1">
+    <polygon points="325.58 44.63 137.61 44.63 43.62 200.45 137.61 356.27 325.58 356.27 419.56 200.45 325.58 44.63" style="fill: #faa819; fill-rule: evenodd;"/>
+    <polygon points="325.58 44.63 137.61 44.63 43.62 200.45 137.61 356.27 325.58 356.27 419.56 200.45 325.58 44.63" style="fill: none; stroke: #fff; stroke-miterlimit: 100; stroke-width: 16.5px;"/>
+  </g>
+  <g id="Rectangle_1" data-name="Rectangle 1">
+    <polygon points="372.05 119.7 367.63 111.99 236.02 188.33 236.02 40.06 227.16 40.06 227.16 188.33 95.56 111.99 91.13 119.7 222.74 196.04 91.13 272.38 95.56 280.08 227.16 203.74 227.16 360.83 236.02 360.83 236.02 203.74 367.63 280.08 372.05 272.38 240.45 196.04 372.05 119.7" style="fill: #fff; fill-rule: evenodd;"/>
+  </g>
+</svg>

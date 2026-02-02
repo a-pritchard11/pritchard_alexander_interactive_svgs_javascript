@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="grapefruit" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 467.61 392.71">
+  <g id="Polygon_1" data-name="Polygon 1">
+    <polygon points="347 8.25 125.04 8.25 14.06 192.26 125.04 376.27 347 376.27 457.98 192.26 347 8.25" style="fill: #fbb040; fill-rule: evenodd;"/>
+    <polygon points="347 8.25 125.04 8.25 14.06 192.26 125.04 376.27 347 376.27 457.98 192.26 347 8.25" style="fill: none; stroke: #fff; stroke-miterlimit: 100; stroke-width: 16.5px;"/>
+  </g>
+  <g id="Polygon_1-2" data-name="Polygon 1">
+    <polygon points="330 36.44 142.04 36.44 48.05 192.26 142.04 348.08 330 348.08 423.99 192.26 330 36.44" style="fill: #ec008c; fill-rule: evenodd;"/>
+    <polygon points="330 36.44 142.04 36.44 48.05 192.26 142.04 348.08 330 348.08 423.99 192.26 330 36.44" style="fill: none; stroke: #fff; stroke-miterlimit: 100; stroke-width: 16.5px;"/>
+  </g>
+  <g id="Rectangle_1" data-name="Rectangle 1">
+    <polygon points="376.48 111.51 372.05 103.81 240.45 180.15 240.45 31.88 231.59 31.88 231.59 180.15 99.99 103.81 95.56 111.51 227.16 187.85 95.56 264.19 99.99 271.9 231.59 195.55 231.59 352.65 240.45 352.65 240.45 195.55 372.05 271.9 376.48 264.19 244.87 187.85 376.48 111.51" style="fill: #fff; fill-rule: evenodd;"/>
+  </g>
+</svg>
