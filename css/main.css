@@ -1,0 +1,72 @@
+#mobile-outline {
+   outline: 20px solid #333;
+   max-width: 412px;
+   margin: 20px auto 20px auto;
+   border-radius: 10px;
+} 
+
+#lime-main:hover {
+   animation: turn .7s ease-in-out;
+}
+
+@keyframes turn {
+   0% {transform: rotate(0deg);}
+   50% {transform: rotate(90deg);}
+   100% {transform: rotate(360deg);}
+}
+
+#lemon:hover {
+   animation: squeeze .9s ease-in-out
+}
+
+@keyframes squeeze {
+   0% {transform: scale(100%);}
+   20% {transform: scale(40%);}
+   80% {transform: scale(115%);}
+   100% {transform: scale(100%);}
+}
+
+#orange:hover {
+   animation: shift 2s ease-in-out;
+}
+
+@keyframes shift {
+   0% {transform: rotate(0deg);}
+   40% {transform: rotate(55deg);}
+   80% {transform: rotate(-55deg);}
+   100% {transform: rotate(0deg);}
+}
+
+#grapefruit:hover {
+   fill: pink;
+   transform: scale(80%);
+}
+
+#grapefruit {
+   transform-box: fill-box;
+   transform-origin: center;
+   transition: all .9s ease;
+}
+
+#kiwi:hover {
+   transform: translateY(500px);
+}
+
+#kiwi {
+   transform-box: fill-box;
+   transform-origin: center;
+   transition: all .5s ease;
+}
+
+#leli:hover {
+   animation: turn 1.5s ease-in-out;
+}
+
+#leli:hover #lime {
+   animation: squeeze 1.8s ease-in-out;
+}
+
+#lime {
+   transform-box: fill-box;
+   transform-origin: center;
+}
